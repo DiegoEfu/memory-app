@@ -1,70 +1,68 @@
-# Getting Started with Create React App
+# Memory App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Resumen del Proyecto (Español)
 
-## Available Scripts
+En esta sección del README del repositorio, expondré los datos del desarrollo de este proyecto.
 
-In the project directory, you can run:
+La aplicación consiste en una "red social" en la cual los usuarios pueden registrarse y publicar "recuerdos", como si de un blog se tratase. Pueden también comentar y darle Like a las memorias de los demás.
 
-### `npm start`
+La aplicación se encuentra enteramente en inglés, pero al ser un proyecto personal colocado para su exhibición tanto para empleadores de habla hispana, como de habla anglosajona, la documentación se encuentra en ambos idiomas, demostrando mi proficiencia en ambos idiomas.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Archivos
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **frontend**: En esta carpeta se encuentra el código del frontend de la aplicación.
+- **backend**: En esta carpeta se encuentra el código del backend de la aplicación.
 
-### `npm test`
+### Tecnologías Utilizadas
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Memory App es un proyecto personal que he realizado para aprender cómo utilizar el stack MERN, el cual utiliza las tecnologías:
 
-### `npm run build`
+- **MongoDB**: Popular gestor de bases de datos orientados a objetos no relacional para proyectos de desarrollo web. Se ha utilizado un cluster en línea para el almacenamiento de los datos con este gestor.
+- **Express.js**: Librería para Node.js (JavaScript) utilizada para el desarrollo del backend de una aplicación web. Para este proyecto, se ha utilizado Express para el tratamiento de la API y la creación de rutas, así como también la utilización de Middlewares y la conexión con base de datos.
+- **React.js**: Es una librería de código abierto para JavaScript, para la creación de interfaces de usuario interactivas para la aplicación web, es decir, el front-end. Para este proyecto se ha utilizado React para la creación de todas las interfaces de usuario visibles en el proyecto. 
+- **Node.js**: Es un entorno que permite la utilización de JavaScript en tiempo de ejecución en plataformas distintas a los navegadores. Para este proyecto, se utilizó Node.js para la creación del back-end y el servidor.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Aparte de estas tecnologías, también se han utilizado:
+- Material-UI.
+- CSS3.
+- Axios.
+- Entre otras.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Despliegue de la aplicación.
+- **Aplicación desplegada en Netlify: ** [Click aquí](https://memories-efudev.netlify.app).
+- **API desplegada en Heroku: ** [Click aquí](https://memories-api-with-users.herokuapp.com/).
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Project Summary
 
-### `npm run eject`
+In this section, the development information of this app will be explained.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+This web application consists in a "social network" in which the users can log in an post "memories", as if it were a blog. They can also post comments and like other users' memories.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+The app is entirely in the english language, but this project will also be reviewed by Spanish-speaker employers, so the documentation is in both languages.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Folders
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- **frontend**: The code of the application's frontend can be found in this folder.
+- **backend**: The code of the application's backend can be found in this folder.
 
-## Learn More
+### Used Technologies.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Memory App was built using the MERN stack, which includes the following technologies:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- **MongoDB**: Non-relational object-oriented database manager, popularly used for web development projects. A cluster was implemented to store the data.
+- **Express.js**: Node.js (JavaScript) library used for backend development of web applications. For this project, Express was used for database connection, routing, and API treatment.
+- **React.js**: Open-source front-end library used for the creation of interactive user interfaces for web applications. React was used for all the GUIs seen in this project.
+- **Node.js**: For this project, node.js was used for the backend development and as an environment for the server.
+- 
+Besides those techonologies, I also used:
+- Material-UI.
+- CSS3.
+- Axios.
+- Et cetera.
 
-### Code Splitting
+### Application Deployment.
+- **Application deployed on Netlify: ** [Click me](https://memories-efudev.netlify.app).
+- **API deployed on Heroku: ** [Click me](https://memories-api-with-users.herokuapp.com/).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Special thanks.
+Thanks to Adrian Hajdin for his MERN Stack tutorials, which helped me in order to build the base of this project.
