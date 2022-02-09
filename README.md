@@ -29,8 +29,8 @@ Aparte de estas tecnologías, también se han utilizado:
 - Entre otras.
 
 ### Despliegue de la aplicación.
-- **Aplicación desplegada en Netlify: ** [Click aquí](https://memories-efudev.netlify.app).
-- **API desplegada en Heroku: ** [Click aquí](https://memories-api-with-users.herokuapp.com/).
+- **Aplicación desplegada en Netlify:** [Click aquí](https://memories-efudev.netlify.app).
+- **API desplegada en Heroku:** [Click aquí](https://memories-api-with-users.herokuapp.com/).
 
 ## Project Summary
 
@@ -53,7 +53,7 @@ Memory App was built using the MERN stack, which includes the following technolo
 - **Express.js**: Node.js (JavaScript) library used for backend development of web applications. For this project, Express was used for database connection, routing, and API treatment.
 - **React.js**: Open-source front-end library used for the creation of interactive user interfaces for web applications. React was used for all the GUIs seen in this project.
 - **Node.js**: For this project, node.js was used for the backend development and as an environment for the server.
-- 
+
 Besides those techonologies, I also used:
 - Material-UI.
 - CSS3.
@@ -61,8 +61,8 @@ Besides those techonologies, I also used:
 - Et cetera.
 
 ### Application Deployment.
-- **Application deployed on Netlify: ** [Click me](https://memories-efudev.netlify.app).
-- **API deployed on Heroku: ** [Click me](https://memories-api-with-users.herokuapp.com/).
+- **Application deployed on Netlify:** [Click me](https://memories-efudev.netlify.app).
+- **API deployed on Heroku:** [Click me](https://memories-api-with-users.herokuapp.com/).
 
 ### Special thanks.
 Thanks to Adrian Hajdin for his MERN Stack tutorials, which helped me in order to build the base of this project.
