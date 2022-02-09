@@ -32,7 +32,7 @@ Aparte de estas tecnologías, también se han utilizado:
 - **Aplicación desplegada en Netlify:** [Click aquí](https://memories-efudev.netlify.app).
 - **API desplegada en Heroku:** [Click aquí](https://memories-api-with-users.herokuapp.com/).
 
-## Project Summary
+## Project Summary (English)
 
 In this section, the development information of this app will be explained.
 
