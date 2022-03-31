@@ -8,9 +8,6 @@ import { useSelector } from 'react-redux';
 const Posts = ({setCurrId}) => {
     const {posts, isLoading} = useSelector((state) => state.posts);
     const classes = useStyles();
-
-    //if(!posts.length && !isLoading)
-      //  return "No posts in database."
     
     return isLoading ? <CircularProgress /> : (
     <Grid className={classes.mainContainer} container alignItems='stretch' spacing={3}>
